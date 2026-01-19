@@ -1,1 +1,5 @@
 package shortifyapi
+
+func main() {
+
+}
