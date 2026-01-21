@@ -1,5 +1,0 @@
-package shortifyapi
-
-func main() {
-
-}
